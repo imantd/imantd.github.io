@@ -1,2 +1,0 @@
-# imantd.github.io
-MyFirstProject
